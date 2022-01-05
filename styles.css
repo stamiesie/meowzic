@@ -32,3 +32,8 @@ body, html {
     border-color: #ee3e08;
     box-shadow: 0 0 1rem #ee3e08;
 }
+
+kbd {
+    display: block;
+    font-size: 4rem;
+  }
